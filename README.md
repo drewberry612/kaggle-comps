@@ -1,4 +1,4 @@
-Some practice for my data science and machine learning skills, completed in my free time.
+Practice for my data science and machine learning skills, completed in my free time.
 
 All competition work can be viewed at https://www.kaggle.com/drewberry6.
 
